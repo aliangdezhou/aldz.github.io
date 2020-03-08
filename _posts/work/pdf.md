@@ -1,0 +1,1 @@
+* [让繁琐工作自动化](https://www.aldz.xyz/pdf/zidonghua.pdf)
