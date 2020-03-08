@@ -3,8 +3,6 @@ author: GitHub User
 email: yujielhao@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Beautiful is better than ugly.Explicit is better than implicit.
-  Simple is better than complex.Complex is better than complicated.
-  Flat is better than nested.Sparse is better than dense.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 plainwhite:
@@ -27,7 +25,7 @@ plainwhite:
     github: 
     linkedIn: 
     home: www.aldz.xyz
-    rss: https://www.aldz.xyz/rss
+    #rss: https://www.aldz.xyz/rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
