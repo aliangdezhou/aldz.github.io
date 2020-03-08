@@ -1,2 +1,2 @@
-* [pdf](https://www.aldz.xyz/work/pdf)
-* [work](https://www.aldz.xyz/work/work)
+* [Doc](https://www.aldz.xyz/Doc/Doc)
+* [Work](https://www.aldz.xyz/work/work)
