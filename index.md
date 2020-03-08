@@ -1,1 +1,3 @@
-## My Web
+---
+layout: home
+---
