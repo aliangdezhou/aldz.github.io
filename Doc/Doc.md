@@ -1,1 +1,1 @@
-* [让繁琐工作自动化](https://www.aldz.xyz/Doc/zidonghua.pdf)
+* [Pdf](https://www.aldz.xyz/Doc/pdf)
