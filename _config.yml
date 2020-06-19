@@ -57,3 +57,4 @@ plainwhite:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+theme: jekyll-theme-cayman
